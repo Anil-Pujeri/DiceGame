@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiceGame": {
+      "commandName": "Project",
+      "commandLineArgs": "3 20"
+    }
+  }
+}
